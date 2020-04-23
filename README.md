@@ -1,6 +1,6 @@
 # Assignment #3: Poetry Site
 
-**This assignment is a simple webpage of a poem I wrote.**
+**This assignment is a simple webpage of a poem I wrote. View this project at: walker.rout.ca**
 
 ## Getting Started With the Project
 
